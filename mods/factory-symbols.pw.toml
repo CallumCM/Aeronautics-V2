@@ -1,0 +1,13 @@
+name = "Factory Symbols"
+filename = "factory_symbols-neoforge-1.21.1-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RCcdhImO/versions/YntvcAao/factory_symbols-neoforge-1.21.1-0.1.0.jar"
+hash-format = "sha512"
+hash = "d1e15eb33f9127876bb2a39923bf6f40bf0e037517f9279769e44e93d8308f8470c0a91df9da65a1f268f4863badd7779473c63aaf83895e334faa9ba61fabbe"
+
+[update]
+[update.modrinth]
+mod-id = "RCcdhImO"
+version = "YntvcAao"
