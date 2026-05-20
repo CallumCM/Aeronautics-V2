@@ -51,13 +51,18 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
+metafile = true
+
+[[files]]
 file = "mods/copycats-aeronautics-weight.pw.toml"
 hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
 metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
