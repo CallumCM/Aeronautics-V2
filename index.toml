@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cosmonautics.pw.toml"
-hash = "54c2cb6fef94528e0182d8afcab1d2136c39e629ad79cfdfbb54ac5f0d00cf2b"
+hash = "155bd3cd8faf9d3b5f8674226c1884bb43bdaa7e6faa3ee11e119ea01806c846"
 metafile = true
 
 [[files]]
