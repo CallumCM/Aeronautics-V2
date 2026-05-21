@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
@@ -56,11 +56,6 @@ hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
 
 [[files]]
-file = "mods/copycats-aeronautics-weight.pw.toml"
-hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -87,13 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronauticstoolgun.pw.toml"
-hash = "618cf5ed7b9393ed7ccb0e8e3b247ae947ca479d12a8b81b28dcef775aed4a61"
+hash = "e9e0339120f3ee2911a7010cf85e09773ce389d43109993a33947e44d0eb2b9a"
 metafile = true
 
 [[files]]
 file = "mods/create-compact-flap.pw.toml"
-hash = "fb073ef2c714a883bb90b6c5a1bdcbeae5bf52a4f2e16c513f978de36a45769f"
+hash = "45e9de2926d598e2b4dd65b599a3854fa1b646a5aadab936769cf8fa7ede5359"
 metafile = true
+
+[[files]]
+file = "mods/create-cosmonautics.toml"
+hash = "fd3098b6672e3ea6df4742ad565d8a1b4d29a54e8d66effda14d0815b10f5e51"
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
@@ -107,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-nowheel.pw.toml"
-hash = "259a80313bf96957be0598a90365d8eddbc465f447c3d5b7962acc1ee0d12f5e"
+hash = "ac46ace915d57a24f4c990941151193764b622ebc60b147e0e9fa75125490763"
 metafile = true
 
 [[files]]
@@ -167,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/hots-aerostuff.pw.toml"
-hash = "810e6092cf768353b5c6acec64e02cdb1d364ba78b77960a22a0d617c1268905"
+hash = "6cc5fb545a53412375fda8c4555bd61c6962f7ce7af75c9fc12ada5811bf2dcc"
 metafile = true
 
 [[files]]
@@ -203,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "0216ec773cdb866842d65dd52c9342574f2ff9240576b0dc1c69f3990b100b75"
 metafile = true
 
 [[files]]
@@ -247,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d2a615d48539929c212fda6a9e44a2737d226aad0b791d61bd31a52b68e12f72"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -257,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "0e8ab1d2658dfd3faca375ea3f40e3f60217f0a3e97c42475e984393ec70dbd3"
+hash = "215cdb2a3b4d7a256cee76a5738da6290348134e31fed3305369a9d761e51b7d"
 metafile = true
 
 [[files]]
@@ -268,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/waystones-sable.pw.toml"
 hash = "e1c4d32608e9da4e92c6151c445196b75eb6b41893cb1a64f4c5f0ba205ae97a"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "vista"
-filename = "vista-neoforge-1.21.1-4.4.2.jar"
+filename = "vista-neoforge-1.21.1-4.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zuARv1N7/versions/GKRGrkMU/vista-neoforge-1.21.1-4.4.2.jar"
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/vx65Ot1a/vista-neoforge-1.21.1-4.4.4.jar"
 hash-format = "sha512"
-hash = "d109051b3f22682fb14c17229de6f5c2cad64c4e7ee4d94efa9fd53acdcfc16f0318ed3814cd5dc782421e0f09582df3c88b7fcd09aef749424e9688404f0d64"
+hash = "2e6fd2dd06e60e0148e233c877045ef17c90bf74c22a04220c2dee1e9279c32bfbca5f9d5a2523d8cfe6de4545778abc6b731a538d4cf4abcb8e5dd4c500a2af"
 
 [update]
 [update.modrinth]
 mod-id = "zuARv1N7"
-version = "GKRGrkMU"
+version = "vx65Ot1a"
