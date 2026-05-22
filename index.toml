@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cosmonautics.pw.toml"
-hash = "155bd3cd8faf9d3b5f8674226c1884bb43bdaa7e6faa3ee11e119ea01806c846"
+hash = "fafe5109d9a3c9c28086cb0e51c615a1b63b12f7c243689aee3912169a1095b6"
 metafile = true
 
 [[files]]
@@ -112,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/create-nowheel.pw.toml"
 hash = "ac46ace915d57a24f4c990941151193764b622ebc60b147e0e9fa75125490763"
-metafile = true
-
-[[files]]
-file = "mods/create-the-air-war.pw.toml"
-hash = "6595e6349625fdb4ac6cf8da66d4fd3a0c4c5e7fb5a71173d9c4fb672c311a6d"
 metafile = true
 
 [[files]]
@@ -235,6 +230,11 @@ hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
@@ -270,16 +270,6 @@ hash = "7a0545b3c17ba1e0856e271ab483f53a4376e8af76c1e36ba09b8805ca3a64b6"
 metafile = true
 
 [[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
-metafile = true
-
-[[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "215cdb2a3b4d7a256cee76a5738da6290348134e31fed3305369a9d761e51b7d"
-metafile = true
-
-[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "0beacfea53e3c4ceb9403be8ab7f993201263c2d9de6d4c340a48b930bc69d01"
 metafile = true
@@ -297,4 +287,19 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "de999f6cc4c2f344e324b4f331fa9767844c31463c6e8066fcd67b613338ab8c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
