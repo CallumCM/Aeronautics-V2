@@ -1,0 +1,13 @@
+name = "Magnetization"
+filename = "magnetization-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2580d4e597e28df7f22543e9bcc44d764172ca1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8117639
+project-id = 1543554

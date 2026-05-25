@@ -65,6 +65,11 @@ file = "mods/cosmonautics-1.3.8rc6.jar"
 hash = "c5c919f104b0a98e1807405b9c4ca852ca24ee45d5f391009b7a6d0e2f44c916"
 
 [[files]]
+file = "mods/create-aeronautics-automated-logistics.pw.toml"
+hash = "5863b8496a75118c8c120889fdb305d5449761fcf5f3cd83594e792c6595bfb7"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-ropes.pw.toml"
 hash = "42ee43d60600356a2e7d921af832d91b269f1cd38c24bc239cbed713cddde110"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
 hash = "f8a8bf8c2bdc8d39c0cf0ff5248476fae137af4836390489b1d2fe2af7237e16"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
+hash = "0e03964744cbccd2a9dd556690463b77dbe83633f9d4f755ead9efc32a090519"
 metafile = true
 
 [[files]]
@@ -87,6 +97,16 @@ metafile = true
 [[files]]
 file = "mods/create-aeronauticstoolgun.pw.toml"
 hash = "e9e0339120f3ee2911a7010cf85e09773ce389d43109993a33947e44d0eb2b9a"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "68bec75bb847714803cb05eb5e4614123570efb3bb9a134ef487c3d7a153d8a0"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "2c6621f2d82a9be0240bbf9c0a416f7dc79edd63636f6d1b869c93ca5f59bade"
 metafile = true
 
 [[files]]
@@ -110,8 +130,38 @@ hash = "fdd3944637a4fc9c986bc93d43ba2ba31b84629c9d2e651fa49e82cd43f08b02"
 metafile = true
 
 [[files]]
+file = "mods/create-high-seas.pw.toml"
+hash = "942716e38ae76bb75a29fced5d812f4cc95633674c84081619b4feff718dea31"
+metafile = true
+
+[[files]]
+file = "mods/create-linear-motion-simulated.pw.toml"
+hash = "fac3ac654ccc3f778b1689baa9c806cd1ce3a79fc0d319073259ecf46078cdaa"
+metafile = true
+
+[[files]]
 file = "mods/create-nowheel.pw.toml"
 hash = "ac46ace915d57a24f4c990941151193764b622ebc60b147e0e9fa75125490763"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
+metafile = true
+
+[[files]]
+file = "mods/create-radars-unofficial-port.pw.toml"
+hash = "9eb3e00c4bba201315baddcce885ff0baaf9a8f0b1105cb97cdd59a093514863"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "71fa04ae6430da94fb8369e2f6153e3d7bdb42a905559d0c6745560bf18611b9"
+metafile = true
+
+[[files]]
+file = "mods/create-simulated-additions.pw.toml"
+hash = "ac038ffae51377e1aa68768b17132522998ddbc5b7af0776a1c964bb3367b268"
 metafile = true
 
 [[files]]
@@ -132,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
 
 [[files]]
@@ -195,13 +250,13 @@ hash = "3607c52c75ff321af2b6af60dfe7d7a6494272946deb32e9e475a29f96a58ede"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+file = "mods/lithium.pw.toml"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+file = "mods/magnetization.pw.toml"
+hash = "109eed05d652a2c8b6276606ee386e7d6d6dc826638d515891051b66cda54004"
 metafile = true
 
 [[files]]
@@ -235,6 +290,11 @@ hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
 metafile = true
 
 [[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
@@ -265,8 +325,18 @@ hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
 
 [[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "7a0545b3c17ba1e0856e271ab483f53a4376e8af76c1e36ba09b8805ca3a64b6"
+hash = "d2a615d48539929c212fda6a9e44a2737d226aad0b791d61bd31a52b68e12f72"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]

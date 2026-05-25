@@ -1,0 +1,13 @@
+name = "Create: High Seas"
+filename = "highseas-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9400958efda5990be7cfa810ccaf03b0a208845c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8087997
+project-id = 1539377
