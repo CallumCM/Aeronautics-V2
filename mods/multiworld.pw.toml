@@ -1,13 +1,8 @@
 name = "Multiworld"
-filename = "Multiworld-NeoForged-1.21.1.jar"
+filename = "Multiworld-NeoForged-1.21.1-PATCHED.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fgvoNDL1/versions/j1hb9bXY/Multiworld-NeoForged-1.21.1.jar"
-hash-format = "sha512"
-hash = "c4c1e2f28907f64e7e729a6ee88b72e0f18ba5917d70b3822822c9eee42c00bc60e16e359405113c88926f95e0f9de3010f8cd2d6c666a90795eae13e2c2220b"
-
-[update]
-[update.modrinth]
-mod-id = "fgvoNDL1"
-version = "j1hb9bXY"
+url = "https://raw.githubusercontent.com/CallumCM/Aeronautics-V2/refs/heads/main/mods/multiworld-1.21.1-PATCHED.jar"
+hash-format = "sha256"
+hash = "9e0904490acff1fa0dd9dd997aa22c6461b7d9a601413cf57e0a86c9b2877050"
