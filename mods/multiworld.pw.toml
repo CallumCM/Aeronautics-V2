@@ -3,6 +3,6 @@ filename = "Multiworld-NeoForged-1.21.1-PATCHED.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/CallumCM/Aeronautics-V2/refs/heads/main/mods/multiworld-1.21.1-PATCHED.jar"
+url = "https://github.com/CallumCM/Aeronautics-V2/raw/refs/heads/main/mods/Multiworld-NeoForged-1.21.1-PATCHED.jar"
 hash-format = "sha256"
 hash = "9e0904490acff1fa0dd9dd997aa22c6461b7d9a601413cf57e0a86c9b2877050"
