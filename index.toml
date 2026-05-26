@@ -130,11 +130,6 @@ hash = "fdd3944637a4fc9c986bc93d43ba2ba31b84629c9d2e651fa49e82cd43f08b02"
 metafile = true
 
 [[files]]
-file = "mods/create-high-seas.pw.toml"
-hash = "942716e38ae76bb75a29fced5d812f4cc95633674c84081619b4feff718dea31"
-metafile = true
-
-[[files]]
 file = "mods/create-linear-motion-simulated.pw.toml"
 hash = "fac3ac654ccc3f778b1689baa9c806cd1ce3a79fc0d319073259ecf46078cdaa"
 metafile = true
@@ -157,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "71fa04ae6430da94fb8369e2f6153e3d7bdb42a905559d0c6745560bf18611b9"
-metafile = true
-
-[[files]]
-file = "mods/create-simulated-additions.pw.toml"
-hash = "ac038ffae51377e1aa68768b17132522998ddbc5b7af0776a1c964bb3367b268"
 metafile = true
 
 [[files]]
@@ -295,11 +285,6 @@ hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
-metafile = true
-
-[[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
@@ -335,13 +320,8 @@ hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "7a0545b3c17ba1e0856e271ab483f53a4376e8af76c1e36ba09b8805ca3a64b6"
 metafile = true
 
 [[files]]
