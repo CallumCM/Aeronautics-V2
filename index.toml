@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Multiworld-NeoForged-1.21.1-PATCHED.jar"
+hash = "a9e7e49d215ae2e1e0f1329ab4bb1f00d16edfc10aed4eeef0e6d37a89bbdd3d"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
@@ -266,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiworld.pw.toml"
-hash = "7b329b1c605a86df77d5bc601fac60f84b269145ccbbc01c0907215eaec6f54f"
+hash = "e35674fd463b7e53e6f4e36a413d76c0b2e9a4957c41a1a904f799e91985ad02"
 metafile = true
 
 [[files]]
@@ -287,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+metafile = true
+
+[[files]]
+file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
+hash = "cde6bc8e26d6e99bdc7f76c6f56c67cecd6a804da0d1ea3e56d1dc72ed64af52"
 metafile = true
 
 [[files]]
